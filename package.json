@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7",
+    "@paypal/react-paypal-js": "^8.7.0",
+    "babel-loader": "^9.2.1",
+    "flowbite": "^2.5.2",
+    "flowbite-react": "^0.10.2",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
+  }
+}
